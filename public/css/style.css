@@ -1,0 +1,27 @@
+body, html{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+  height: auto;
+  text-align: center;
+}
+
+header{
+  line-height: 10vh;
+}
+
+#text{
+  width: 60%;
+  margin: auto;
+  height: 100%;
+  text-align: auto;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+}
