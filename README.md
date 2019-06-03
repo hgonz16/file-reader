@@ -1,4 +1,7 @@
-File reader
+# Lets read that file
 
-simple web page, that outputs a file's text into the page.
-[DEMO](https://file-reader.herokuapp.com/)
+Lets read that file is a website that reads any text file and outputs its contents in the page
+
+## Usage
+
+If you want to try it out check it out [here](https://file-reader.herokuapp.com/).
